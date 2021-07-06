@@ -1,1 +1,1 @@
-# sample_web_service_dropwizard
+# sample_dropwizard_web_service
