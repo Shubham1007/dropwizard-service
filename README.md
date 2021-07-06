@@ -9,5 +9,5 @@ This is a sample dropwizard web service.
 
 ## API Endpoints: 
 
-1. This GET api endpoint return greeting message - http://localhost:8080/v1/resource (this will return message)
-2. This GET api endpoint return greeting message along with accepts 2 query params. GET api - http://localhost:8080/v1/resource?first=shubham&&second=doing (In this api call we can give 2 query params)
+1. This GET API endpoint return greeting message - http://localhost:8080/v1/resource 
+2. This GET API endpoint return greeting message along with accepts 2 query params. - http://localhost:8080/v1/resource?first=shubham&&second=doing 
